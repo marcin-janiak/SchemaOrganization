@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\repo\Workshops\GraphQL\schema-organization\SchemaOrganization.API" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SchemaOrganization.API" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cars" t="Include">
+          <e p="CarsMutations.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="SchemaOrganization.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="People" t="Include">
+          <e p="PeopleMutations.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Projects" t="Include">
+          <e p="ProjectsMutations.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="QLTypes" t="Include">
+          <e p="Mutation.cs" t="Include" />
+          <e p="Query.cs" t="Include" />
+        </e>
+        <e p="SchemaOrganization.API.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="SchemaOrganization.API.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\marcin.janiak\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\marcin.janiak\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\marcin.janiak\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\marcin.janiak\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marcin.janiak\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SchemaOrganization.API.-725343797.00" t="ExcludeRecursive" />
+  </component>
+</project>
